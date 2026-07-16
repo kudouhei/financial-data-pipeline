@@ -1,0 +1,4 @@
+CREATE SCHEMA IF NOT EXISTS finance_raw;
+CREATE SCHEMA IF NOT EXISTS finance_staging;
+CREATE SCHEMA IF NOT EXISTS finance_mart;
+CREATE SCHEMA IF NOT EXISTS finance_quality;

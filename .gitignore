@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+postgres_data/
+data/raw/*.csv
+data/processed/*.csv
+reports/*.html
+reports/*.md
